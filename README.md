@@ -1,5 +1,7 @@
 ﻿# app_help_desk
-  Ao iniciar o projeto, para que funcione, colocamos o diretório do Apache dentro do painel de controle do XAMPP, através do qual acessamos o diretório htdocs e criamos uma pasta chamada app_help_desk. Para acessar, precisamos fazer uma requisição para localhost, que é onde o servidor Apache está aguardando requisições.
+  
+  
+   Ao iniciar o projeto, para que funcione, colocamos o diretório do Apache dentro do painel de controle do XAMPP, através do qual acessamos o diretório htdocs e criamos uma pasta chamada app_help_desk. Para acessar, precisamos fazer uma requisição para localhost, que é onde o servidor Apache está aguardando requisições.
 
 Observações:
 
@@ -17,4 +19,3 @@ Para fechar o arquivo, você deve utilizar a função fclose($variaval_que_receb
 PHP_EOL é uma constante utilizada para gerar uma quebra de linha nos arquivos de escrita.
 A função feof() verifica se o combustível é o fim do arquivo (EOF).
 A função fgets() retorna uma linha de um arquivo aberto
-
